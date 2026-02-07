@@ -10,6 +10,8 @@ This repo is the official implementation of
 Install from the ```requirements.txt``` using:
 ```angular2html
 pip install -r requirements.txt
+```
 
 ## Usage
+
 *Note: If you have some problems with the code, the [issues](https://github.com/ThirteenYue/SGNet/issues) may help.*
